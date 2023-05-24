@@ -1,4 +1,4 @@
-# vue-tailwindcss2
+# TailwindVueLogin
 
 ## Project setup
 ```
